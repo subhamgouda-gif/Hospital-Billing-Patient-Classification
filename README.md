@@ -55,3 +55,7 @@ START -> Read patient -> Valid amounts? --no--> Print invalid record
 ```powershell
 python main.py
 ```
+
+## Live Streamlit deployment
+
+https://hospital-billing-patient-classification-7ghuwuf6qys5d9pqwy4qgy.streamlit.app/
